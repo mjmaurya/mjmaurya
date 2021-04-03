@@ -24,7 +24,7 @@
 <br />
 
 
-Hi, I'm [Manoj](http://www.mjmaurya.github.io), a Final year CS Undergrad 🚀 from India, currently, I'm Looking for an SDE Role,I have Worked as an SDE Intern at Geminid Systems and Microcen Web Technology 👨🏽‍💼[@Garuda Hacks] Beside's programming, I enjoy playing cricket and traveling.
+Hi, I'm [Manoj](http://mjmaurya.github.io/), a Final year CS Undergrad 🚀 from India, currently, I'm Looking for an SDE Role,I have Worked as an SDE Intern at Geminid Systems and Microcen Web Technology 👨🏽‍💼[@Garuda Hacks] Beside's programming, I enjoy playing cricket and traveling.
   
   <img align="right" width="500" height="320" src="https://cdn.dribbble.com/users/1235346/screenshots/3956212/dribbble_01.gif"/>
 **Talking about Personal Stuffs:**
