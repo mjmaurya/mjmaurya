@@ -31,7 +31,7 @@ Hi, I'm [Manoj](http://mjmaurya.github.io/), a Final year CS Undergrad 🚀 from
 
 - 👨🏽‍💻 I'm Looking for an SDE Role; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@manojbce](https://instagram.com/manojbce), [@gcssmanoj](https://twitter.com/gcssmanoj);
+- 📫 How to reach me: [@Instagram](https://instagram.com/mj_manojk), [@Twitter](https://twitter.com/gcssmanoj);
 
 
 **Languages and Tools:**  
