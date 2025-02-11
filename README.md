@@ -7,10 +7,10 @@
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
-<a href="https://www.instagram.com/manojbce">
+<a href="https://www.instagram.com/mj.cs_">
  <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
 </a>
-<a href="https://www.twitter.com/gcssmanoj">
+<a href="https://x.com/manojkushwaha__">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 <a href="https://www.youtube.com/codescript">
@@ -24,15 +24,14 @@
 <br />
 
 
-Hi, I'm [Manoj](http://mjmaurya.github.io/), a Final year CS Undergrad 🚀 from India, currently,I have Worked as an SDE Intern at Geminid Systems and Microcen Web Technology.  Beside's programming, I enjoy playing cricket and traveling.
+Hi, I'm [Manoj](http://mjmaurya.github.io/), a versatile full-stack developer specializing in the MEAN stack, adept at crafting robust web solutions from frontend to backend. With a keen eye for detail and a passion for problem-solving, I excel in creating dynamic and intuitive user experiences while ensuring seamless functionality and performance. My expertise spans Angular for front-end development, Node.js and Express.js for back-end solutions, and MongoDB for efficient data management. With a collaborative mindset and a drive for innovation, I am committed to delivering high-quality, scalable applications that exceed expectations..
   
   <img align="right" width="500" height="320" src="https://cdn.dribbble.com/users/1235346/screenshots/3956212/dribbble_01.gif"/>
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I'm Looking for an SDE Role; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Instagram](https://instagram.com/mj_manojk), [@Twitter](https://twitter.com/gcssmanoj);
-
+- 📫 How to reach me: [@Instagram](https://instagram.com/mj.cs_), [@Twitter](https://x.com/manojkushwaha__);
 
 **Languages and Tools:**  
 
